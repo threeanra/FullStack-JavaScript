@@ -9,7 +9,7 @@ Tutorial and completion course of "FullStack JavaScript Developer dengan Express
 <b>Backend</b>
 - Express.js
 
-
+<b>Libraries</b>
 - JWT (JSON Web Token)
 - Express Validator
 - bcryptjs
