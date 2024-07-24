@@ -5,10 +5,10 @@ Tutorial and completion course of "FullStack JavaScript Developer dengan Express
 
 <b>Front-End</b>
 - React + Vite
-
+<hr>
 <b>Backend</b>
 - Express.js
-
+<hr>
 <b>Libraries</b>
 - JWT (JSON Web Token)
 - Express Validator
